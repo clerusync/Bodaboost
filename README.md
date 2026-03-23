@@ -6,7 +6,7 @@ The live website can be viewed at [BodaBoost](https://clerusync.com/BodaBoost/).
 
 ## Key Features
 
-*   **Real-time Recognition:** Employs AI to recognize traffic signs, speed limits and other road safety indicators in real-time through the device's camera.
+*   **Real-time Recognition:** uses AI to recognise traffic signs, speed limits and other road safety indicators in real-time through the device's camera.
 *   **Driver Assistance:** Aims to increase awareness and education about safe driving practices and traffic laws among Boda Boda riders.
 *   **Accident Reduction:** Focuses on mitigating reckless driving behavior to decrease the number of related accidents.
 
